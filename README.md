@@ -10,5 +10,3 @@
 - 💬 Ask me about hacking
 - 📫 How to reach me: [linkedin](www.linkedin.com/in/ankitkumarvaid)
 - ⚡ Fun fact: I love film making 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
