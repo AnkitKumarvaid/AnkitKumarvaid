@@ -1,5 +1,5 @@
 
-# Hello, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"  width="5px">
+# Hello, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"  width="30px">
 ![](2.png)
 
 
@@ -10,3 +10,5 @@
 - 💬 Ask me about hacking
 - 📫 How to reach me: [linkedin](www.linkedin.com/in/ankitkumarvaid)
 - ⚡ Fun fact: I love film making 
+
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitKumarvaid)](https://github.com/anuraghazra/github-readme-stats)
